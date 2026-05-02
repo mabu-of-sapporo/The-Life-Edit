@@ -1,0 +1,16 @@
+{
+  "name": "the-life-edit",
+  "owner": {
+    "name": "Manabu Asai",
+    "url": "https://github.com/mabu-of-sapporo"
+  },
+  "plugins": [
+    {
+      "name": "the-life-edit",
+      "source": "./",
+      "description": "A Claude skill that helps you think clearly — not the AI.",
+      "version": "1.0.0",
+      "license": "Apache-2.0"
+    }
+  ]
+}
