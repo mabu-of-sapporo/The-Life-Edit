@@ -9,7 +9,7 @@
       "name": "the-life-edit",
       "source": "./",
       "description": "A Claude skill that helps you think clearly — not the AI.",
-      "version": "1.0.0",
+      "version": "3.0.0",   ← 1.0.0 → 3.0.0
       "license": "Apache-2.0"
     }
   ]
