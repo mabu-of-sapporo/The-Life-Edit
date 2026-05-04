@@ -1,6 +1,6 @@
 {
   "name": "the-life-edit",
-  "version": "1.0.0",
+  "version": "3.0.0",          ← 1.0.0 → 3.0.0
   "description": "A Claude skill that helps you think clearly — not the AI.",
   "author": {
     "name": "Manabu Asai",
@@ -9,6 +9,6 @@
   "license": "Apache-2.0",
   "homepage": "https://github.com/mabu-of-sapporo/The-Life-Edit",
   "skills": [
-    "./skills/think-with-you"
+    "./skills/think-with-you-v3"  ← フォルダ名を v3 に
   ]
 }
