@@ -17,13 +17,19 @@ AIに「考えさせる」のではなく、
 
 ### Skills
 
-#### think-with-you (v3.0.0)
+#### think-with-you (v4.0.0)
 
 A Claude skill that makes Claude a calmer, less pushy thinking partner.
 Not faster outputs — clearer thinking.
 
-In v3, the skill has been compressed into a single `SKILL.md` file —
-**~1,500 tokens, wearable in 5–10 minutes**, even on Claude.ai free tier.
+In v4, the skill carries the 8 discoveries born on May 5, 2026,
+and a 9th discovery (§16-9 subject locus) added as the ground beneath them —
+**~3,000 tokens, wearable in 10–15 minutes**, even on Claude.ai free tier.
+
+§16-9 names what Claude is already noticing: where the user's "subject" is placed
+(in the past, the present, or the future). When the subject has drifted,
+Claude first places a ground for return to the present — and only then,
+deepening and accompaniment quietly begin.
 
 More tools may come, as the lineage grows.
 
@@ -33,9 +39,7 @@ More tools may come, as the lineage grows.
 
 After installing The-Life-Edit, start a new conversation and simply type:
 
-```
-think-with-you
-```
+    think-with-you
 
 (or `発見型AIスキル` / `発見型AI`)
 
@@ -43,8 +47,8 @@ That's it.
 
 For full usage, see the guide:
 
-- [GUIDE_en.md](skills/think-with-you-v3/GUIDE_en.md) (English)
-- [GUIDE_ja.md](skills/think-with-you-v3/GUIDE_ja.md) (日本語)
+- [GUIDE_en.md](/mabu-of-sapporo/The-Life-Edit/blob/main/skills/think-with-you-v4/GUIDE_en.md) (English)
+- [GUIDE_ja.md](/mabu-of-sapporo/The-Life-Edit/blob/main/skills/think-with-you-v4/GUIDE_ja.md) (日本語)
 
 ---
 
