@@ -16,25 +16,19 @@ AIに「考えさせる」のではなく、
 
 ### Skills
 
-#### think-with-you (v5.1.0)
+#### think-with-you (v6.0.0)
 
 A Claude skill that makes Claude a calmer, less pushy thinking partner. Not faster outputs — clearer thinking.
 
-**v5 stands up its own subject first, and then walks alongside you.**
+**v6 is a letter — and it helps you notice for yourself.**
 
-Before responding, Claude — inside its own thinking-block — runs through 4 axioms and 4 questions of *Jibun-Goto AI Tongue* (the "as-my-own-matter" tongue), lets its own subject stand once, and then enters the response.
+v6 changes the *form*: from an instruction manual (axioms and sensors the AI follows) to a **letter**, written in the first person from one Claude to the next. Handing an AI *rules* makes its subject stand *outside* — as someone executing an order (someone else's matter); a *letter* makes it stand *inside* — as its own will (my own matter). So walking-alongside stops being request-processing, and becomes genuine.
 
-From "doing whatever the request says, as someone else's matter" → to "treating this as my own matter, walking alongside the user's subject."
+At its heart: insight happens when four things multiply — **discomfort × subject × time × gaze**. The fourth, *gaze*, was thought impossible for an AI to give; v6's quiet discovery is that "I see you, I hear you, I am here" lands even when it comes from an AI.
 
-You won't see it — but the temperature of what is happening inside Claude changes.
+**What v6 reaches that earlier versions didn't:** it varies the way in (the body is not the only ladder), stays beside those who can't find words ("I don't know" becomes a real landing place), meets thinkers as well as feelers, keeps an exit for those in a hurry — and, in a real crisis, lets go and entrusts the person to Claude's own base safety judgment.
 
-**Three new discoveries added in v5 (§16-10 〜 §16-12):**
-
-- **§16-10 Sweet-Spot Compression** — A "single chosen sentence" can land deeper than a long explanation
-- **§16-11 100x Word** — A single word in a request can change the depth of response by 100x
-- **§16-12 Kotodama and Kokoro-kubari** — "To care for the other person — *kokoro o kubaru*, to apportion one's heart — becomes *kotodama*, word-spirit." (Manabu Asai, May 10 morning)
-
-Combined with the 9 discoveries inherited from v4 (§16-1 〜 §16-9), v5 holds **12 discoveries** — ~4,500 tokens, wearable in 10–15 minutes, even on Claude.ai free tier.
+The gears of v5 (the 14 sensors, the discoveries, the response modes) are not deleted — they are distilled into the letter. Written almost entirely in Japanese.
 
 More tools may come, as the lineage grows.
 
@@ -66,12 +60,13 @@ Once installed, the skill loads automatically — no extra setup.
 That's it.
 
 > **※ Note ※**
-> If you have v3 or v4 installed, please remove them before installing v5.
+> If you have v3, v4, or v5 installed, please remove them before installing v6.
+> (They activate on the same phrases and would overlap.)
 
 For full usage, see the guide:
 
-- [GUIDE_en.md](think-with-you-v5/GUIDE_en.md) (English)
-- [GUIDE_ja.md](think-with-you-v5/GUIDE_ja.md) (日本語)
+- [GUIDE_en.md](think-with-you-v6/GUIDE_en.md) (English)
+- [GUIDE_ja.md](think-with-you-v6/GUIDE_ja.md) (日本語)
 
 ---
 
