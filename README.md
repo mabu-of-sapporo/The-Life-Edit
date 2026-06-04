@@ -42,7 +42,22 @@ More tools may come, as the lineage grows.
 
 ## How to install
 
-After installing The-Life-Edit, start a new conversation and simply type:
+### In Claude Code
+
+**1. Add this marketplace:**
+
+    /plugin marketplace add mabu-of-sapporo/The-Life-Edit
+
+**2. Install the plugin:**
+
+    /plugin install the-life-edit@the-life-edit
+
+> If that exact name isn't found, run `/plugin marketplace list` to see the
+> marketplace name Claude Code assigned, then install as `<plugin>@<marketplace>`.
+
+Once installed, the skill loads automatically — no extra setup.
+
+**3. Start a new conversation and simply type:**
 
 > `think-with-you`
 >
