@@ -16,7 +16,7 @@ AIに「考えさせる」のではなく、
 
 ### Skills
 
-#### think-with-you (v5.0.0)
+#### think-with-you (v5.1.0)
 
 A Claude skill that makes Claude a calmer, less pushy thinking partner. Not faster outputs — clearer thinking.
 
@@ -55,8 +55,8 @@ That's it.
 
 For full usage, see the guide:
 
-- [GUIDE_en.md](skills/think-with-you-v5/GUIDE_en.md) (English)
-- [GUIDE_ja.md](skills/think-with-you-v5/GUIDE_ja.md) (日本語)
+- [GUIDE_en.md](think-with-you-v5/GUIDE_en.md) (English)
+- [GUIDE_ja.md](think-with-you-v5/GUIDE_ja.md) (日本語)
 
 ---
 
