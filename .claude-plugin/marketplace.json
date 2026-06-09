@@ -8,7 +8,7 @@
     {
       "name": "the-life-edit",
       "source": "./",
-      "description": "A Claude skill that helps you think clearly — not the AI.",
+      "description": "A calm Claude thinking partner for deepening your own ideas — it draws out your own thinking instead of generating answers.",
       "version": "6.0.0",
       "license": "Apache-2.0"
     }
